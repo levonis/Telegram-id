@@ -27,7 +27,7 @@ async def send_id(update: Update, context: ContextTypes.DEFAULT_TYPE):
 
 def main():
     # ضع توكن البوت هنا بين علامتي التنصيص
-    BOT_TOKEN = "8294294203:AAFUgJTZUpJt-nGfRX1f2pGCdYvP9ctLqP8"
+    BOT_TOKEN = ""
 
     app = ApplicationBuilder().token(BOT_TOKEN).build()
 
